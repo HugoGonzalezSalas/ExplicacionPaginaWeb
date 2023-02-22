@@ -6,7 +6,7 @@
 
 ## Referencias
 
-- [Video de Jesus](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/index)
+- [Video de Jesus](https://www.youtube.com/watch?v=tdr8ye28c6M)
 
 ## Autor
 
